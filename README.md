@@ -14,10 +14,10 @@
 ## Contents
 
 - [About Mightymeld](#mightymeld)
-- [Sample Projects](#sample-projects)
-- [Starter Projects](#starter-projects)
-- [Prefabs](#prefabs)
-- [Contribute](#contribute)
+- [Sample Projects](#🔥-sample-projects)
+- [Starter Projects](#-starter-projects)
+- [Prefabs](#🧱-prefabs)
+- [Contribute](#%EF%B8%8F-contribute)
 
 
 ## 📚 About Mightymeld
