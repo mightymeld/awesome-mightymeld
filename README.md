@@ -1,6 +1,6 @@
 
 <div align="center" display="flex" >
-  <img src="mightymeld_logo.svg" alt="GitHub Logo" width="150px">
+  <img src="mightymeld_logo.svg" alt="Mightymeld Logo" width="150px">
   <h1>Awesome Mightymeld <div style="font-size: 14px; padding: 10px">A FUTURE KIND OF DEV TOOL</div> </h1> 
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
