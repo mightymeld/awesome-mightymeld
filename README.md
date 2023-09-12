@@ -1,29 +1,29 @@
 
 <div align="center" display="flex" >
-  <img src="mightymeld_logo.svg" alt="Mightymeld Logo" width="150px">
+  <img src="mightymeld_logo.svg" alt="MightyMeld Logo" width="150px">
   <br/>
   <br/> 
   <div>A FUTURE KIND OF DEV TOOL</div>
-  <h1>Awesome Mightymeld</h1> 
+  <h1>Awesome MightyMeld</h1> 
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   <br/>
   <br/>
-  <h2>A Collection of Mightymeld Awesomeness</h2>
+  <h2>A Collection of MightyMeld Awesomeness</h2>
 </div>
 
 <br/>
 
 ## Contents
 
-- [About Mightymeld](#mightymeld)
+- [About MightyMeld](#mightymeld)
 - [Sample Projects](#-sample-projects)
 - [Starter Projects](#-starter-projects)
 - [Prefabs](#-prefabs)
 - [Contribute](#-contribute)
 
 
-## 📚 About Mightymeld
+## 📚 About MightyMeld
  Accelerate your React development with visual, intuitive superpowers. 
 
 - [Website](https://www.mightymeld.com/)
@@ -35,9 +35,9 @@
 ## 🔥 Sample Projects
 Small applications you can quickly load up to see how MightyMeld works.
 
-- [Mightymeld Chakra Sample](https://github.com/mightymeld/mightymeld-chakra-sample)
-- [Mightymeld TailwindCSS Sample](https://github.com/mightymeld/mightymeld-tailwind-sample)
-- [Mightymeld MaterialUI Sample](https://github.com/mightymeld/mightymeld-materialui-sample)
+- [MightyMeld Chakra Sample](https://github.com/mightymeld/mightymeld-chakra-sample)
+- [MightyMeld TailwindCSS Sample](https://github.com/mightymeld/mightymeld-tailwind-sample)
+- [MightyMeld MaterialUI Sample](https://github.com/mightymeld/mightymeld-materialui-sample)
 
 
 ## 🪜 Starter Projects
