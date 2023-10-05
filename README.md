@@ -14,15 +14,6 @@
 
 <br/>
 
-## Contents
-
-- [About MightyMeld](#mightymeld)
-- [Sample Projects](#-sample-projects)
-- [Starter Projects](#-starter-projects)
-- [Prefabs](#-prefabs)
-- [Contribute](#-contribute)
-
-
 ## 📚 About MightyMeld
  Accelerate your React development with visual, intuitive superpowers. 
 
